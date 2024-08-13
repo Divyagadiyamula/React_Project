@@ -1,0 +1,80 @@
+
+
+.tile.correct {
+  background-color: green;
+}
+
+.tile.present {
+  background-color: yellow;
+}
+
+.tile.absent {
+  background-color: grey;
+} 
+.reset-button {
+  padding: 10px ;
+  margin-top: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 870px;
+  box-shadow: 2px 2px 5px #007bff;
+  font-size: 18px;
+  color: black;
+}
+
+.reset-button:hover {
+  background-color: #0056b3;
+}
+
+.message {
+  font-size: 25px;
+  margin-top: 10px;
+ 
+ color: white;
+  margin-left: 730px;
+  border: 1px solid white;
+ 
+  width: 450px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.score{
+  margin-left: 890px;
+  color: white;
+  font-weight: 700;
+  font-size: 25px;
+}
+.timer{
+ 
+position: absolute;
+top: 100px;
+left: 1250px;
+color:black;
+font-weight: 600;
+box-shadow: 2px 2px 5px black;
+font-size: 25px;
+background-color: gold;
+padding: 10px;
+border-radius: 8px;
+  
+}
+.tittle{
+  color:white
+}
+
+.app{
+  background-image: url("https://ideogram.ai/assets/image/lossless/response/Yoo9yBrkSuykJYv1bhx_yA");
+  height: 100vh;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
